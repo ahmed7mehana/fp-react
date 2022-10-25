@@ -1,0 +1,21 @@
+.footer{
+    background: #a82d49;
+    padding: 30px;
+}
+.footer a {
+    color: #f5f9ff;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold;
+}
+.footer a:hover {
+    color: #f5f9ff;
+border-bottom: 1px solid white;
+}
+.footer p { margin-top: 30px; color: #f5f9ff;}
+.footer .icon  {
+    padding: 6px;
+    margin: 17px 0px;
+}
+.footer .icon a{ border-bottom: none; padding: 0;}
+img, svg{font-size: 25px;  margin-left: 9px; color: #f5f9ff;}

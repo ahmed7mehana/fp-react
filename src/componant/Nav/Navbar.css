@@ -1,0 +1,14 @@
+nav .num{
+    background-color: red;
+    border: solid 1px salmon;
+    border-radius: 5px;
+    color: rgb(255, 255, 255) !important;
+}
+nav .num:hover{
+    background-color:transparent;
+    color: salmon !important;
+    transition: 0.2s ease-in-out;
+}
+nav img{
+    width: 160px;
+max-width: 100%;}
